@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "I am a second year graduate student at East China University of Science and Technology. My research interests include robotics, reinforcement learning, optimal control, and more"
 author_profile: true
 redirect_from: 
   - /about/

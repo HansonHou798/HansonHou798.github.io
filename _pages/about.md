@@ -10,8 +10,6 @@ redirect_from:
 I am a second year graduate student at East China University of Science and Technology. My research interests include robotics, reinforcement learning, optimal control, and more.
 You can find my CV here: 
 
-%[XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
 [Email](mailto:y81230046@mail.ecust.edu.cn) / [Github](https://github.com/HansonHou798) 
 
 A data-driven personal website

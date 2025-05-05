@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I am a second year graduate student at East China University of Science and Technology. My research interests include robotics, reinforcement learning, optimal control, and more"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
